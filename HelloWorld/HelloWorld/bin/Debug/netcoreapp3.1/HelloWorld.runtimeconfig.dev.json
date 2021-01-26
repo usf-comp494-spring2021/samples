@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jkryst\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jkryst\\.nuget\\packages"
+    ]
+  }
+}
