@@ -1,0 +1,12 @@
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\bin\Debug\net5.0\CalcLib.deps.json
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\bin\Debug\net5.0\CalcLib.dll
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\bin\Debug\net5.0\ref\CalcLib.dll
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\bin\Debug\net5.0\CalcLib.pdb
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\obj\Debug\net5.0\CalcLib.csprojAssemblyReference.cache
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\obj\Debug\net5.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\obj\Debug\net5.0\CalcLib.AssemblyInfoInputs.cache
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\obj\Debug\net5.0\CalcLib.AssemblyInfo.cs
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\obj\Debug\net5.0\CalcLib.csproj.CoreCompileInputs.cache
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\obj\Debug\net5.0\CalcLib.dll
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\obj\Debug\net5.0\ref\CalcLib.dll
+\\10.0.2.2\User Data\Users\Jason Kryst\Shared\Documents\Career\Teaching\USF\SP21-CSC494\Students\samples\Homework\Homework3\CalcLib\obj\Debug\net5.0\CalcLib.pdb
